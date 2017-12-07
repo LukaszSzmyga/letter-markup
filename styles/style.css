@@ -31,3 +31,7 @@ p, li, dd, dt, address {
 .sincerely {
   padding-bottom: 100px;
 }
+
+.time {
+  padding-top: 20px;
+}
